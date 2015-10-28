@@ -13,5 +13,6 @@ package swi_pokus1;
 public class tried2 {
     //koment
     //komsssss
+    //dasa
     
 }
